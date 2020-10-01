@@ -8,7 +8,7 @@ header{
     min-height: 100vh;
     background: linear-gradient(240deg,#834d4d,#503d3d);
     position: relative;
-    color: white;
+    color: #fff;
     font-family: sans-serif; 
     z-index: -1;
 }
@@ -20,10 +20,10 @@ header{
     transform: translate(-20%,-50%);
 }
 .intro-text h1{
-    font-size: 60px;
+    font-size: 61px;
 }
 .intro-text h3{
-    font-size: 35px;
+    font-size: 36px;
 }
 .chair{
     height: 700px;
@@ -34,13 +34,13 @@ header{
 }
 .big-rose{
     position: absolute;
-    height: 200px;
+    height: 201px;
     top: 10%;
     right: 40%;
 
 }
 .small-rose{
-    height: 100px;
+    height: 101px;
     position: absolute;
     top: 30%;
     right: 10%;
